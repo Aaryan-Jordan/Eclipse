@@ -101,8 +101,8 @@ def wishMe():
         
 
 if __name__ == '__main__':
-    print('Welcome to Friday A.I')
-    say("firday is ready to comply. What can I do for you ?")
+    print('Welcome to Eclipse')
+    say("Welcome to Eclipse what can i do for you")
     while True:
         print("Listening...")
         query = takeCommand()
